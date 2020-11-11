@@ -1,2 +1,1 @@
-# internship
-Internship aggregation service
+# Internship

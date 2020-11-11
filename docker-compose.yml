@@ -1,0 +1,8 @@
+version: "3"
+services:
+  edgedb:
+    image: edgedb/edgedb
+    ports:
+      - "5656:5656"
+      - "8888:8888"
+      - "8889:8889"
